@@ -11,4 +11,7 @@
     <string name="multiplicacion">Multiplication</string>
     <string name="division">Division</string>
     <string name="HelloWorld" translatable="false">Hello World</string>
+    <string name="error_1">Type Number one</string>
+    <string name="error_2">Type Number two</string>
+    <string name="error_3">this number can\'t be zero</string>
 </resources>

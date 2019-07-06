@@ -11,4 +11,7 @@
     <string name="resta">Resta</string>
     <string name="multiplicacion">Multiplicación</string>
     <string name="division">División</string>
+    <string name="error_3">El denominador no puede ser cero</string>
+    <string name="error_2">Digite el numero 2</string>
+    <string name="error_1">Digite el numero 1</string>
 </resources>
