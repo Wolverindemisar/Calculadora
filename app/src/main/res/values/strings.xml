@@ -1,9 +1,19 @@
 <resources>
     <string name="app_name">Calculadora</string>
-    <string name="HelloWorld" translatable="false">Hola Mundo</string>
+    <string name="HelloWorld">Hola Mundo</string>
     <string name="titulo">Calculadora</string>
     <string name="label_uno">Digite número uno</string>
     <string name="label_dos">Digite número dos</string>
     <string name="Calcular">calcular</string>
     <string name="Limpiar">Limpiar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string-array name="operaciones">
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
 </resources>
