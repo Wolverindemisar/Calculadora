@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="HelloWorld" translatable="false">Hola Mundo</string>
+    <string name="titulo">Calculadora</string>
+    <string name="label_uno">Digite número uno</string>
+    <string name="label_dos">Digite número dos</string>
+    <string name="Calcular">calcular</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string name="error_3">El denominador no puede ser cero</string>
+    <string name="error_2">Digite el numero 2</string>
+    <string name="error_1">Digite el numero 1</string>
 </resources>

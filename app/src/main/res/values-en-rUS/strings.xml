@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="titulo">Calculator</string>
+    <string name="label_uno">Type number one</string>
+    <string name="label_dos">Type number two</string>
+    <string name="Calcular">calculate</string>
+    <string name="Limpiar">Clean</string>
+    <string name="suma">Sum</string>
+    <string name="resta">Subtraction</string>
+    <string name="multiplicacion">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="HelloWorld" translatable="false">Hello World</string>
+    <string name="error_1">Type Number one</string>
+    <string name="error_2">Type Number two</string>
+    <string name="error_3">this number can\'t be zero</string>
 </resources>
